@@ -1,0 +1,19 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Comment[en_US]=
+Comment=
+Exec=sh -c 'curl -L https://gist.githubusercontent.com/BenTech2/191718cd2f901a7a044c0bd520c11eb7/raw/dec77a772f6c66d56aeebd3be605f35b4f049dfe/install.sh | bash'
+GenericName[en_US]=
+GenericName=
+MimeType=
+Name[en]=Install LC Mods
+Name=Install LC Mods
+Path=
+StartupNotify=false
+Terminal=true
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
